@@ -1,6 +1,6 @@
 module aferno
 
-go 1.21
+go 1.24
 
 require github.com/kataras/iris/v12 v12.2.5
 
@@ -18,7 +18,7 @@ require (
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/kataras/golog v0.1.9 // indirect
 	github.com/kataras/pio v0.0.12 // indirect
-	github.com/klauspost/compress v1.16.7 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.25 // indirect
